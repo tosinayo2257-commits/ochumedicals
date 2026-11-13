@@ -11,7 +11,7 @@ import {
   FaClock,
 } from 'react-icons/fa'
 
-import Logo from '../assets/logo.jpg'
+import Logo from '../assets/Logo.jpg'
 
 function Footer() {
   const quickLinks = [

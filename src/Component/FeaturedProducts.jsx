@@ -12,7 +12,7 @@ import OlympusMedical from "../assets/Olympus Medical Endoscopy System.jpg";
 import MedicalInstrumentTrolley from "../assets/Adjustable Mobile Medical Instrument Trolley.jpg";
 import DigitalUltrasoundScanner from "../assets/Portable Digital Ultrasound Scanner.jpg";
 import UltrasoundTransducerProbe from "../assets/Ultrasound Transducer Probe.jpg";
-import UltrasoundMachine from "../assets/Mindray 3D-4D Ultrasound Machine.jpg";
+import UltrasoundMachine from "../assets/Mindray 3D-4D ultrasound machine.jpg";
 import HandheldFetalDopplerProbe from "../assets/Handheld Fetal Doppler Probe.jpg";
 import StainlessSteelTheatre from "../assets/Stainless Steel Theatre Instrument Sterilization Box.jpg";
 import  DigitalXRay from "../assets/digital xray radiography system.jpg";
@@ -25,7 +25,7 @@ import BedScreens from '../assets/Hospital Privacy Curtains.jpg'
 import MRIScanner from '../assets/MRI Scanner.jpg'
 import VerticalSteam from '../assets/Vertical Steam Sterilizer.jpg'
 import HandheldPulseOximeter from '../assets/Handheld Pulse Oximeter.jpg'
-import Callsystem from '../assets/Wireless Call System.jpg'
+import Callsystem from '../assets/Wireless call system.jpg'
 import Callbutton from '../assets/Wireless Call Button.jpg'
 import Watchpager from '../assets/Wireless Watch Pager.jpg'
 import Applayout from "../Layout/Applayout";
