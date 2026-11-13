@@ -75,7 +75,7 @@ function Hero() {
               <img
                 src={heroImage}
                 alt="Medical equipment supplied by Ochu Medicals Nigeria Limited"
-                className="w-full h-[350px] md:h-[380px] object-cover object-center"
+                className="w-full h-[250px] md:h-[380px] object-cover object-center"
               />
 
             </div>
