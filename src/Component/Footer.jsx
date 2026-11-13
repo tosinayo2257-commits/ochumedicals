@@ -66,7 +66,7 @@ function Footer() {
 
               {/* Facebook */}
               <a
-                href="https://www.facebook.com/OCHUmedicalsNigeriaLimited"
+                href="https://www.facebook.com/share/1Gtu2rpe9C/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Facebook"
