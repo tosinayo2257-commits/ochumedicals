@@ -38,7 +38,7 @@ function Hero() {
 
             <p className="text-gray-600 leading-relaxed max-w-xl">
               From essential medical supplies to advanced healthcare
-              equipment, Ochu Medicals is your trusted partner
+              equipment, OchuMedicals is your trusted partner
               in delivering better healthcare.
             </p>
 
@@ -75,7 +75,7 @@ function Hero() {
               <img
                 src={heroImage}
                 alt="Medical equipment supplied by Ochu Medicals Nigeria Limited"
-                className="w-full h-[250px] md:h-[380px] object-cover object-center"
+                className="w-full h-[px] md:h-[px] object-cover object-center"
               />
 
             </div>
